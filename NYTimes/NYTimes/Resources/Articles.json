@@ -1,0 +1,1389 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/f7adb208-b4c3-5bca-a989-5253ad061841",
+      "url": "https://www.nytimes.com/2024/11/14/opinion/i-cant-wait-for-matt-gaetzs-confirmation-hearings.html",
+      "id": 100000009826135,
+      "asset_id": 100000009826135,
+      "source": "New York Times",
+      "published_date": "2024-11-14",
+      "updated": "2024-11-18 14:17:45",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Transition (US);Right-Wing Extremism and Alt-Right;United States Politics and Government;Appointments and Executive Changes;Trump, Donald J;Gaetz, Matt;Hegseth, Pete;Justice Department;Defense Department;Republican Party;Senate",
+      "column": null,
+      "byline": "By Michelle Goldberg",
+      "type": "Article",
+      "title": "Matt Gaetz Is the Perfect Man for the Job",
+      "abstract": "Trump’s choice to lead the Justice Department is a flagrant provocation that is, like a pulpy B movie, so bad, it’s good.",
+      "des_facet": [
+        "Presidential Transition (US)",
+        "Right-Wing Extremism and Alt-Right",
+        "United States Politics and Government",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Defense Department",
+        "Republican Party",
+        "Senate"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Gaetz, Matt",
+        "Hegseth, Pete"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/14/multimedia/14goldberg-lpwc/14goldberg-lpwc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/14/multimedia/14goldberg-lpwc/14goldberg-lpwc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/14/multimedia/14goldberg-lpwc/14goldberg-lpwc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Samuel Corum/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/12/multimedia/09nasaw1-fhkp/09nasaw1-fhkp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/12/multimedia/09nasaw1-fhkp/09nasaw1-fhkp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/12/multimedia/09nasaw1-fhkp/09nasaw1-fhkp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e22fb8a2-ff69-50e2-aee7-438b4d5353e5",
+      "url": "https://www.nytimes.com/2024/11/11/opinion/elon-musk-trump-election.html",
+      "id": 100000009812800,
+      "asset_id": 100000009812800,
+      "source": "New York Times",
+      "published_date": "2024-11-11",
+      "updated": "2024-11-11 23:24:51",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;Social Media;United States Politics and Government;Friendship;Regulation and Deregulation of Industry;Politics and Government;High Net Worth Individuals;Campaign Finance;Presidents and Presidency (US);Carnegie, Andrew;Hearst, William Randolph;Hoover, Herbert Clark;Kennedy, Joseph P;McKinley, William;Musk, Elon;Roosevelt, Theodore;Trump, Donald J",
+      "column": null,
+      "byline": "By David Nasaw",
+      "type": "Article",
+      "title": "Trump and Musk: The Bromance That Cannot Last",
+      "abstract": "Now that he has been elected, Donald Trump will probably not honor the promises he made to Elon Musk.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Social Media",
+        "United States Politics and Government",
+        "Friendship",
+        "Regulation and Deregulation of Industry",
+        "Politics and Government",
+        "High Net Worth Individuals",
+        "Campaign Finance",
+        "Presidents and Presidency (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carnegie, Andrew",
+        "Hearst, William Randolph",
+        "Hoover, Herbert Clark",
+        "Kennedy, Joseph P",
+        "McKinley, William",
+        "Musk, Elon",
+        "Roosevelt, Theodore",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Samuel Corum/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/12/multimedia/09nasaw1-fhkp/09nasaw1-fhkp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/12/multimedia/09nasaw1-fhkp/09nasaw1-fhkp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/12/multimedia/09nasaw1-fhkp/09nasaw1-fhkp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/2d44e623-26b0-521b-95fc-3069ebb0a81a",
+      "url": "https://www.nytimes.com/interactive/2024/11/06/us/elections/results-house-races-tracker.html",
+      "id": 100000009812252,
+      "asset_id": 100000009812252,
+      "source": "New York Times",
+      "published_date": "2024-11-06",
+      "updated": "2024-11-18 16:29:16",
+      "section": "U.S.",
+      "subsection": "2024 Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "internal-paywall-exempt;Elections;Elections, House of Representatives;New Jersey;New Mexico;Nevada;New York;Ohio;Oklahoma;Oregon;Pennsylvania;Rhode Island;South Carolina;South Dakota;Tennessee;Texas;Utah;Virginia;Vermont;Washington (State);Wisconsin;West Virginia;Wyoming;Hawaii;Iowa;Idaho;Illinois;Indiana;Kansas;Kentucky;Louisiana;Massachusetts;Maryland;Maine;Michigan;Minnesota;Missouri;Mississippi;Montana;North Carolina;North Dakota;Nebraska;New Hampshire;Alaska;Alabama;Arkansas;Arizona;California;Colorado;Connecticut;Delaware;Florida;Georgia",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "Path to 218: Tracking the Remaining House Races",
+      "abstract": "Follow the results in the undecided congressional districts in the race for House control. ",
+      "des_facet": [
+        "internal-paywall-exempt",
+        "Elections",
+        "Elections, House of Representatives"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New Jersey",
+        "New Mexico",
+        "Nevada",
+        "New York",
+        "Ohio",
+        "Oklahoma",
+        "Oregon",
+        "Pennsylvania",
+        "Rhode Island",
+        "South Carolina",
+        "South Dakota",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Virginia",
+        "Vermont",
+        "Washington (State)",
+        "Wisconsin",
+        "West Virginia",
+        "Wyoming",
+        "Hawaii",
+        "Iowa",
+        "Idaho",
+        "Illinois",
+        "Indiana",
+        "Kansas",
+        "Kentucky",
+        "Louisiana",
+        "Massachusetts",
+        "Maryland",
+        "Maine",
+        "Michigan",
+        "Minnesota",
+        "Missouri",
+        "Mississippi",
+        "Montana",
+        "North Carolina",
+        "North Dakota",
+        "Nebraska",
+        "New Hampshire",
+        "Alaska",
+        "Alabama",
+        "Arkansas",
+        "Arizona",
+        "California",
+        "Colorado",
+        "Connecticut",
+        "Delaware",
+        "Florida",
+        "Georgia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-POST-2024-11-05-national-map-us-h-H-4dfebd/eln-POST-2024-11-05-national-map-us-h-H-4dfebd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-POST-2024-11-05-national-map-us-h-H-4dfebd/eln-POST-2024-11-05-national-map-us-h-H-4dfebd-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-POST-2024-11-05-national-map-us-h-H-4dfebd/eln-POST-2024-11-05-national-map-us-h-H-4dfebd-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4128bff5-a107-5dbe-9437-1e1f31de864b",
+      "url": "https://www.nytimes.com/2024/11/11/well/family/grandparent-grandchild-childfree.html",
+      "id": 100000009742637,
+      "asset_id": 100000009742637,
+      "source": "New York Times",
+      "published_date": "2024-11-11",
+      "updated": "2024-11-12 14:41:48",
+      "section": "Well",
+      "subsection": "Family",
+      "nytdsection": "well",
+      "adx_keywords": "Grandparents;Families and Family Life;Birth Rates;Baby Boomers;Grief (Emotion)",
+      "column": null,
+      "byline": "By Catherine Pearson",
+      "type": "Article",
+      "title": "The Unspoken Grief of Never Becoming a Grandparent",
+      "abstract": "A growing number of Americans are choosing not to have children. Their parents are grappling with what that means for them.",
+      "des_facet": [
+        "Grandparents",
+        "Families and Family Life",
+        "Birth Rates",
+        "Baby Boomers",
+        "Grief (Emotion)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Christine Kutt, 69, with a photo of the daughter she welcomed later in life. Ms. Kutt is holding out hope that her daughter, now in her 20s, will change her mind about staying child free.",
+          "copyright": "Nolis Anderson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/08/multimedia/WELL-GRANDPARENT-GRIEF4-hbzv/WELL-GRANDPARENT-GRIEF4-hbzv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/08/multimedia/WELL-GRANDPARENT-GRIEF4-hbzv/WELL-GRANDPARENT-GRIEF4-hbzv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/08/multimedia/WELL-GRANDPARENT-GRIEF4-hbzv/WELL-GRANDPARENT-GRIEF4-hbzv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/56f236f9-91ce-56e1-8c4e-bf86bded6414",
+      "url": "https://www.nytimes.com/2024/11/13/us/politics/melania-trump-biden-white-house-meeting.html",
+      "id": 100000009823017,
+      "asset_id": 100000009823017,
+      "source": "New York Times",
+      "published_date": "2024-11-13",
+      "updated": "2024-11-14 06:01:48",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "White House Building (Washington, DC);Presidential Election of 2024;internal-paywall-exempt-elections-app;Trump, Melania;Trump, Donald J;Biden, Jill Tracy Jacobs;Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Sheryl Gay Stolberg and Maggie Haberman",
+      "type": "Article",
+      "title": "Breaking Tradition, Melania Trump Rejects Jill Biden’s White House Invitation",
+      "abstract": "Mrs. Trump declined the invitation for the traditional meeting between the current and future presidential spouses.",
+      "des_facet": [
+        "White House Building (Washington, DC)",
+        "Presidential Election of 2024",
+        "internal-paywall-exempt-elections-app"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Melania",
+        "Trump, Donald J",
+        "Biden, Jill Tracy Jacobs",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President-elect Donald J. Trump with Melania Trump on election night.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/13/multimedia/13trump-transition-melania-hcmg/13trump-transition-melania-hcmg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/13/multimedia/13trump-transition-melania-hcmg/13trump-transition-melania-hcmg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/13/multimedia/13trump-transition-melania-hcmg/13trump-transition-melania-hcmg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/41a07c8a-6771-574d-ade2-bf26fd6c287b",
+      "url": "https://www.nytimes.com/2024/11/11/us/politics/stephen-miller-trump.html",
+      "id": 100000009819615,
+      "asset_id": 100000009819615,
+      "source": "New York Times",
+      "published_date": "2024-11-11",
+      "updated": "2024-11-12 15:04:37",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Presidential Transition (US);Appointments and Executive Changes;Immigration and Emigration;Illegal Immigration;Deportation;internal-paywall-exempt-elections-app;Trump, Donald J;Miller, Stephen (1985- );Homan, Thomas D",
+      "column": null,
+      "byline": "By Maggie Haberman and Jonathan Swan",
+      "type": "Article",
+      "title": "Trump Transition Signals Focus on Deportations as Miller Assumes Influence",
+      "abstract": "President-elect Donald Trump is expected to name the immigration hard-liner Stephen Miller as deputy chief of staff and announced a former ICE official as his “border czar.”",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Transition (US)",
+        "Appointments and Executive Changes",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Deportation",
+        "internal-paywall-exempt-elections-app"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Miller, Stephen (1985- )",
+        "Homan, Thomas D"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen Miller, seen at the U.S.-Mexico border in 2019, is expected to be named deputy chief of staff to President-elect Donald J. Trump.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11dc-trump-miller-lqgw/11dc-trump-miller-lqgw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11dc-trump-miller-lqgw/11dc-trump-miller-lqgw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11dc-trump-miller-lqgw/11dc-trump-miller-lqgw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/57fb3841-ed78-5a07-a393-56b164a9ec96",
+      "url": "https://www.nytimes.com/2024/11/13/us/politics/gaetz-gabbard-hegseth-trump-appointees.html",
+      "id": 100000009824632,
+      "asset_id": 100000009824632,
+      "source": "New York Times",
+      "published_date": "2024-11-13",
+      "updated": "2024-11-16 13:06:27",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Transition (US);United States Politics and Government;internal-paywall-exempt-elections-app;Gaetz, Matt;Gabbard, Tulsi (1981- );Hegseth, Pete;Trump, Donald J;House of Representatives;Justice Department;Republican Party;Senate",
+      "column": null,
+      "byline": "By Katie Rogers",
+      "type": "Article",
+      "title": "Gaetz, Gabbard and Hegseth: Trump’s Picks Are a Show of Force",
+      "abstract": "President-elect Donald J. Trump’s cabinet picks show that he prizes loyalty over experience and is fueled by retribution.",
+      "des_facet": [
+        "Presidential Transition (US)",
+        "United States Politics and Government",
+        "internal-paywall-exempt-elections-app"
+      ],
+      "org_facet": [
+        "House of Representatives",
+        "Justice Department",
+        "Republican Party",
+        "Senate"
+      ],
+      "per_facet": [
+        "Gaetz, Matt",
+        "Gabbard, Tulsi (1981- )",
+        "Hegseth, Pete",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Matt Gaetz at a Trump rally in California last month.",
+          "copyright": "Jordan Gale for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/13/multimedia/13dc-trump-nominees1-mjtp/13dc-trump-nominees1-mjtp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/13/multimedia/13dc-trump-nominees1-mjtp/13dc-trump-nominees1-mjtp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/13/multimedia/13dc-trump-nominees1-mjtp/13dc-trump-nominees1-mjtp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/487b4536-85f8-550b-a44d-29694e360fbf",
+      "url": "https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html",
+      "id": 100000009825100,
+      "asset_id": 100000009825100,
+      "source": "New York Times",
+      "published_date": "2024-11-14",
+      "updated": "2024-11-18 12:05:25",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Comedy and Humor;Right-Wing Extremism and Alt-Right;Newtown, Conn, Shooting (2012);Bankruptcies;Mergers, Acquisitions and Divestitures;Conspiracy Theories;Jones, Alex (1974- );Onion, The;Infowars",
+      "column": null,
+      "byline": "By Benjamin Mullin and Elizabeth Williamson",
+      "type": "Article",
+      "title": "The Onion Wins Bid to Buy Infowars, Alex Jones’s Site, Out of Bankruptcy",
+      "abstract": "The satirical news site intends to turn Infowars into a parody of itself. But the court overseeing the bankruptcy put a hold on the sale pending a hearing next week.",
+      "des_facet": [
+        "Comedy and Humor",
+        "Right-Wing Extremism and Alt-Right",
+        "Newtown, Conn, Shooting (2012)",
+        "Bankruptcies",
+        "Mergers, Acquisitions and Divestitures",
+        "Conspiracy Theories"
+      ],
+      "org_facet": [
+        "Onion, The",
+        "Infowars"
+      ],
+      "per_facet": [
+        "Jones, Alex (1974- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Jones, the founder of Infowars, outside a federal courthouse in Houston ahead of a bankruptcy hearing in June. ",
+          "copyright": "David J. Phillip/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/14/multimedia/14infowars-wfcv/14infowars-wfcv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/14/multimedia/14infowars-wfcv/14infowars-wfcv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/14/multimedia/14infowars-wfcv/14infowars-wfcv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b11a823f-0066-5516-8166-eeca617db682",
+      "url": "https://www.nytimes.com/2024/11/14/opinion/identity-groups-politics.html",
+      "id": 100000009823322,
+      "asset_id": 100000009823322,
+      "source": "New York Times",
+      "published_date": "2024-11-14",
+      "updated": "2024-11-15 14:35:14",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;Race and Ethnicity;Gender;Voting and Voters;Polls and Public Opinion;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;Harris, Kamala D;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "Why We Got It So Wrong",
+      "abstract": "It turns out a lot of people don’t behave like ambassadors from this or that group. They think for themselves in unexpected ways.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Race and Ethnicity",
+        "Gender",
+        "Voting and Voters",
+        "Polls and Public Opinion",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jesse Rieser for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/15/multimedia/14brooks-tjqv/14brooks-tjqv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/15/multimedia/14brooks-tjqv/14brooks-tjqv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/15/multimedia/14brooks-tjqv/14brooks-tjqv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a8411d79-8525-5d3f-92f6-e4d255765126",
+      "url": "https://www.nytimes.com/2024/11/13/us/elections/republican-house-trifecta.html",
+      "id": 100000009814400,
+      "asset_id": 100000009814400,
+      "source": "New York Times",
+      "published_date": "2024-11-13",
+      "updated": "2024-11-14 21:09:15",
+      "section": "U.S.",
+      "subsection": "2024 Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Elections, House of Representatives;United States Politics and Government;Presidential Election of 2024;Trump, Donald J;Republican Party;House of Representatives;Democratic Party",
+      "column": null,
+      "byline": "By Catie Edmondson",
+      "type": "Article",
+      "title": "Republicans Win Control of House, Cementing a G.O.P. Trifecta Under Trump",
+      "abstract": "The party protected vulnerable incumbents and picked off Democrats in competitive districts, handing the president-elect a unified Congress to enact his agenda.",
+      "des_facet": [
+        "Elections, House of Representatives",
+        "United States Politics and Government",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "House of Representatives",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Representative Byron Donalds of Florida, former President Donald J. Trump, Senator JD Vance of Ohio and Speaker Mike Johnson at the Republican National Convention in July.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/08/multimedia/00dc-house-czqp/00dc-house-czqp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/08/multimedia/00dc-house-czqp/00dc-house-czqp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/08/multimedia/00dc-house-czqp/00dc-house-czqp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d6b6857f-7c77-59f9-aead-b1cd2efb9c2c",
+      "url": "https://www.nytimes.com/2024/11/11/climate/trump-chooses-lee-zeldin-to-run-epa.html",
+      "id": 100000009820029,
+      "asset_id": 100000009820029,
+      "source": "New York Times",
+      "published_date": "2024-11-11",
+      "updated": "2024-11-11 23:21:27",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Air Pollution;Global Warming;Environment;Pollution;internal-paywall-exempt-elections-app;Zeldin, Lee M;Trump, Donald J;Environmental Protection Agency",
+      "column": null,
+      "byline": "By Coral Davenport and Lisa Friedman",
+      "type": "Article",
+      "title": "Trump Chooses Lee Zeldin to Run E.P.A. as He Plans to Gut Climate Rules",
+      "abstract": "The former congressman from New York is a strong supporter of Donald Trump and voted against certifying the 2020 election.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Air Pollution",
+        "Global Warming",
+        "Environment",
+        "Pollution",
+        "internal-paywall-exempt-elections-app"
+      ],
+      "org_facet": [
+        "Environmental Protection Agency"
+      ],
+      "per_facet": [
+        "Zeldin, Lee M",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former Representative Lee Zeldin speaking at a rally for Donald J. Trump in Hazel Township, Pa., earlier this month.",
+          "copyright": "Eric Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11cli-zeldinepa-bgkh/11cli-zeldinepa-bgkh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11cli-zeldinepa-bgkh/11cli-zeldinepa-bgkh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11cli-zeldinepa-bgkh/11cli-zeldinepa-bgkh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ffe20a1e-2c23-5d6b-b893-a1c659eb0fab",
+      "url": "https://www.nytimes.com/2024/11/13/us/death-stairs-facebook.html",
+      "id": 100000009789626,
+      "asset_id": 100000009789626,
+      "source": "New York Times",
+      "published_date": "2024-11-13",
+      "updated": "2024-11-15 10:12:09",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Interior Design and Furnishings;Accidents and Safety;Social Media;Falls",
+      "column": null,
+      "byline": "By Amanda Holpuch",
+      "type": "Article",
+      "title": "Take the ‘Death Stairs’ if You Dare",
+      "abstract": "A Facebook page, which began among a few friends, has grown into a popular photo collection of hazardous stairs.",
+      "des_facet": [
+        "Interior Design and Furnishings",
+        "Accidents and Safety",
+        "Social Media",
+        "Falls"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A staircase made of pipe fittings at Kevin Reid’s childhood home in Dublin, Ireland. Each tread can accommodate only one step at a time.",
+          "copyright": "Kevin Reid",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/01/multimedia/xp-deathstairs-top/xp-deathstairs-top-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/01/multimedia/xp-deathstairs-top/xp-deathstairs-top-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/01/multimedia/xp-deathstairs-top/xp-deathstairs-top-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8723121d-9048-5bbd-a221-b4bda1222ba7",
+      "url": "https://www.nytimes.com/2024/11/11/us/politics/democrats-trump-harris-turnout.html",
+      "id": 100000009816450,
+      "asset_id": 100000009816450,
+      "source": "New York Times",
+      "published_date": "2024-11-11",
+      "updated": "2024-11-13 09:44:19",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "internal-paywall-exempt-elections-app;United States Politics and Government;Presidential Election of 2024;Presidential Election of 2020;Voting and Voters;Harris, Kamala D;Biden, Joseph R Jr;Trump, Donald J;Democratic Party",
+      "column": null,
+      "byline": "By Michael C. Bender",
+      "type": "Article",
+      "title": "Why Was There a Broad Drop-Off in Democratic Turnout in 2024?",
+      "abstract": "Many Democrats failed to turn out to vote at the rate they did in 2020 when they ousted Donald Trump, according to an analysis of election data.",
+      "des_facet": [
+        "internal-paywall-exempt-elections-app",
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Presidential Election of 2020",
+        "Voting and Voters"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "U.S. counties with huge Democratic advantages delivered 1.9 million fewer votes for Kamala Harris than they had for Joe Biden.",
+          "copyright": "Cheriss May for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11pol-turnout-tpbk/11pol-turnout-tpbk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11pol-turnout-tpbk/11pol-turnout-tpbk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11pol-turnout-tpbk/11pol-turnout-tpbk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9c13518c-9789-56a0-b137-f26652482675",
+      "url": "https://www.nytimes.com/2024/11/14/world/middleeast/elon-musk-iran-trump.html",
+      "id": 100000009825672,
+      "asset_id": 100000009825672,
+      "source": "New York Times",
+      "published_date": "2024-11-14",
+      "updated": "2024-11-15 13:05:12",
+      "section": "World",
+      "subsection": "Middle East",
+      "nytdsection": "world",
+      "adx_keywords": "United States International Relations;Embargoes and Sanctions;Nuclear Weapons;Musk, Elon;Trump, Donald J;Pezeshkian, Masoud;United Nations;Iran",
+      "column": null,
+      "byline": "By Farnaz Fassihi",
+      "type": "Article",
+      "title": "Elon Musk Met With Iran’s U.N. Ambassador, Iranian Officials Say",
+      "abstract": "The tech billionaire, a top adviser to President-elect Donald J. Trump, was reported to have discussed ways to defuse tensions between Iran and the United States.",
+      "des_facet": [
+        "United States International Relations",
+        "Embargoes and Sanctions",
+        "Nuclear Weapons"
+      ],
+      "org_facet": [
+        "United Nations"
+      ],
+      "per_facet": [
+        "Musk, Elon",
+        "Trump, Donald J",
+        "Pezeshkian, Masoud"
+      ],
+      "geo_facet": [
+        "Iran"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk after a meeting in Washington on Wednesday.",
+          "copyright": "Eric Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/14/multimedia/14iran-musk-htlp/14iran-musk-htlp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/14/multimedia/14iran-musk-htlp/14iran-musk-htlp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/14/multimedia/14iran-musk-htlp/14iran-musk-htlp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d1cb24e4-554f-5ea6-bf06-b51d56e73e65",
+      "url": "https://www.nytimes.com/2024/11/13/us/politics/musk-trump-transition-mar-a-lago.html",
+      "id": 100000009820105,
+      "asset_id": 100000009820105,
+      "source": "New York Times",
+      "published_date": "2024-11-13",
+      "updated": "2024-11-14 01:33:30",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Presidential Transition (US);Appointments and Executive Changes;Regulation and Deregulation of Industry;internal-paywall-exempt-elections-app;Musk, Elon;Trump, Donald J",
+      "column": null,
+      "byline": "By Theodore Schleifer",
+      "type": "Article",
+      "title": "At Mar-a-Lago, ‘Uncle’ Elon Musk Puts His Imprint on the Trump Transition",
+      "abstract": "He’s on the patio. He’s on the golf course. Everywhere Donald Trump looks, there is the world’s richest man.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Presidential Transition (US)",
+        "Appointments and Executive Changes",
+        "Regulation and Deregulation of Industry",
+        "internal-paywall-exempt-elections-app"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Musk, Elon",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk has taken a prominent role in President-elect Donald J. Trump’s transition team, sitting in on many job interviews and spending significant time at Mar-a-Lago.",
+          "copyright": "Hiroko Masuike/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/12/multimedia/12pol-musk-transition-topart-bpjq/12pol-musk-transition-topart-bpjq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/12/multimedia/12pol-musk-transition-topart-bpjq/12pol-musk-transition-topart-bpjq-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/12/multimedia/12pol-musk-transition-topart-bpjq/12pol-musk-transition-topart-bpjq-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c43cee74-c31e-5803-93c3-05df46714748",
+      "url": "https://www.nytimes.com/2024/11/11/business/media/chris-wallace-cnn.html",
+      "id": 100000009820339,
+      "asset_id": 100000009820339,
+      "source": "New York Times",
+      "published_date": "2024-11-11",
+      "updated": "2024-11-13 12:27:34",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Television;News and News Media;Podcasts;Video Recordings, Downloads and Streaming;Wallace, Chris (1947- );CNN;Fox News Channel",
+      "column": null,
+      "byline": "By Jin Yu Young",
+      "type": "Article",
+      "title": "Former Fox News Host Chris Wallace to Quit CNN After 3 Years",
+      "abstract": "The 77-year-old veteran anchor told The Daily Beast that he planned to venture into streaming or podcasting.",
+      "des_facet": [
+        "Television",
+        "News and News Media",
+        "Podcasts",
+        "Video Recordings, Downloads and Streaming"
+      ],
+      "org_facet": [
+        "CNN",
+        "Fox News Channel"
+      ],
+      "per_facet": [
+        "Wallace, Chris (1947- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace at the CNN studio in Washington in 2022. He announced that he would leave CNN.",
+          "copyright": "Andrew Mangum for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11xp-wallace-pjfh/11xp-wallace-pjfh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11xp-wallace-pjfh/11xp-wallace-pjfh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/11/multimedia/11xp-wallace-pjfh/11xp-wallace-pjfh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/ec6c1050-49ca-5952-9e9b-d3d137b848ef",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-house.html",
+      "id": 100000009796247,
+      "asset_id": 100000009796247,
+      "source": "New York Times",
+      "published_date": "2024-11-05",
+      "updated": "2024-11-18 16:29:17",
+      "section": "U.S.",
+      "subsection": "2024 Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "internal-paywall-exempt;Elections;Elections, House of Representatives;Nebraska;New Jersey;New Mexico;Nevada;New York;Ohio;Oklahoma;Oregon;Pennsylvania;South Carolina;South Dakota;Tennessee;Texas;Utah;Virginia;Vermont;Washington (State);Wisconsin;West Virginia;Wyoming;Delaware;Florida;Georgia;Hawaii;Iowa;Idaho;Illinois;Indiana;Kansas;Kentucky;Louisiana;Maryland;Maine;Michigan;Minnesota;Missouri;Mississippi;Montana;North Carolina;North Dakota;Alaska;Alabama;Arkansas;Arizona;California;Colorado;Connecticut",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "U.S. House Election Results",
+      "abstract": "Get live House results and maps from the most competitive congressional districts in the 2024 election.\n\n",
+      "des_facet": [
+        "internal-paywall-exempt",
+        "Elections",
+        "Elections, House of Representatives"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Nebraska",
+        "New Jersey",
+        "New Mexico",
+        "Nevada",
+        "New York",
+        "Ohio",
+        "Oklahoma",
+        "Oregon",
+        "Pennsylvania",
+        "South Carolina",
+        "South Dakota",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Virginia",
+        "Vermont",
+        "Washington (State)",
+        "Wisconsin",
+        "West Virginia",
+        "Wyoming",
+        "Delaware",
+        "Florida",
+        "Georgia",
+        "Hawaii",
+        "Iowa",
+        "Idaho",
+        "Illinois",
+        "Indiana",
+        "Kansas",
+        "Kentucky",
+        "Louisiana",
+        "Maryland",
+        "Maine",
+        "Michigan",
+        "Minnesota",
+        "Missouri",
+        "Mississippi",
+        "Montana",
+        "North Carolina",
+        "North Dakota",
+        "Alaska",
+        "Alabama",
+        "Arkansas",
+        "Arizona",
+        "California",
+        "Colorado",
+        "Connecticut"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-POST-2024-11-05-national-map-us-h-H-4dfebd/eln-POST-2024-11-05-national-map-us-h-H-4dfebd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-POST-2024-11-05-national-map-us-h-H-4dfebd/eln-POST-2024-11-05-national-map-us-h-H-4dfebd-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-POST-2024-11-05-national-map-us-h-H-4dfebd/eln-POST-2024-11-05-national-map-us-h-H-4dfebd-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4ef2cf3a-c798-50b0-befe-e9f606feff40",
+      "url": "https://www.nytimes.com/2024/11/12/us/politics/pete-hegseth-defense-secretary-trump.html",
+      "id": 100000009822205,
+      "asset_id": 100000009822205,
+      "source": "New York Times",
+      "published_date": "2024-11-12",
+      "updated": "2024-11-14 21:11:03",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;United States Defense and Military Forces;Presidential Transition (US);Appointments and Executive Changes;Veterans;internal-paywall-exempt-elections-app;Hegseth, Pete;Trump, Donald J;Defense Department",
+      "column": null,
+      "byline": "By Helene Cooper and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Picks Pete Hegseth, a Veteran and Fox News Host, for Defense Secretary",
+      "abstract": "The choice of Mr. Hegseth, a dedicated supporter of the president-elect in his first term, is outside the norm of the traditional choice for the post.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "Presidential Transition (US)",
+        "Appointments and Executive Changes",
+        "Veterans",
+        "internal-paywall-exempt-elections-app"
+      ],
+      "org_facet": [
+        "Defense Department"
+      ],
+      "per_facet": [
+        "Hegseth, Pete",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pete Hegseth at Trump Tower in New York in 2016. A co-host of “Fox & Friends,” Mr. Hegseth joined the network as a contributor in 2014.",
+          "copyright": "Sam Hodgson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/12/23/us/politics/12dc-hegseth-01/12dc-hegseth-01-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/12/23/us/politics/12dc-hegseth-01/12dc-hegseth-01-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/12/23/us/politics/12dc-hegseth-01/12dc-hegseth-01-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b232542f-0dd8-5521-b091-cf76d9b2887f",
+      "url": "https://www.nytimes.com/2024/11/12/travel/skiplagged-flights-hacks.html",
+      "id": 100000009795051,
+      "asset_id": 100000009795051,
+      "source": "New York Times",
+      "published_date": "2024-11-12",
+      "updated": "2024-11-13 12:56:52",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Airlines and Airplanes;Budget Travel;Prices (Fares, Fees and Rates);Suits and Litigation (Civil)",
+      "column": null,
+      "byline": "By Christine Chung",
+      "type": "Article",
+      "title": "Airlines Hate ‘Skiplagging.’ Meet the Man Who Helps Travelers Pull It Off.",
+      "abstract": "Aktarer Zaman is the founder of a controversial website that unearths airfare hacks, most notably skipping the last leg of a flight for a cheaper price.",
+      "des_facet": [
+        "Airlines and Airplanes",
+        "Budget Travel",
+        "Prices (Fares, Fees and Rates)",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Skiplagging offers significant value to cost-conscious travelers, Aktarer Zaman says, and he’s invigorated to empower them with his website. ",
+          "copyright": "Aktarer Zaman",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/11/01/travel/oakImage-1730482186749/oakImage-1730482186749-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/01/travel/oakImage-1730482186749/oakImage-1730482186749-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/11/01/travel/oakImage-1730482186749/oakImage-1730482186749-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/aab7a95b-52c4-54dc-8058-71537f4ce328",
+      "url": "https://www.nytimes.com/2024/11/12/health/robert-kennedy-jr-fda.html",
+      "id": 100000009813641,
+      "asset_id": 100000009813641,
+      "source": "New York Times",
+      "published_date": "2024-11-12",
+      "updated": "2024-11-16 11:32:24",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Medicine and Health;United States Politics and Government;Regulation and Deregulation of Industry;Presidential Transition (US);Rumors and Misinformation;Milk;Avian Influenza;Hydroxychloroquine (Drug);Blood;Metals and Minerals;Stem Cells;Autism;internal-paywall-exempt-elections-app;Kennedy, Robert F Jr;Trump, Donald J;Food and Drug Administration",
+      "column": null,
+      "byline": "By Christina Jewett",
+      "type": "Article",
+      "title": "Kennedy’s F.D.A. Wish List: Raw Milk, Stem Cells, Heavy Metals",
+      "abstract": "Robert F. Kennedy Jr., one of President-elect Donald J. Trump’s advisers on health, is taking aim at the agency’s oversight on many fronts.",
+      "des_facet": [
+        "Medicine and Health",
+        "United States Politics and Government",
+        "Regulation and Deregulation of Industry",
+        "Presidential Transition (US)",
+        "Rumors and Misinformation",
+        "Milk",
+        "Avian Influenza",
+        "Hydroxychloroquine (Drug)",
+        "Blood",
+        "Metals and Minerals",
+        "Stem Cells",
+        "Autism",
+        "internal-paywall-exempt-elections-app"
+      ],
+      "org_facet": [
+        "Food and Drug Administration"
+      ],
+      "per_facet": [
+        "Kennedy, Robert F Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert F. Kennedy Jr. has threatened to fire Food and Drug Administration employees, taking aim at the agency’s regulatory powers.",
+          "copyright": "Rachel Woolf for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/19/multimedia/00RFK-FDA-01/00RFK-FDA-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/19/multimedia/00RFK-FDA-01/00RFK-FDA-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/19/multimedia/00RFK-FDA-01/00RFK-FDA-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
